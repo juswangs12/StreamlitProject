@@ -38,13 +38,6 @@ if section == "Home":
         - Contact info  
         """)
 
-    with col2:
-        st.image(
-            r"C:\Users\PC\streamlit_Lo\images\Lo.png",
-            caption="Joshua Noel Lo",
-            width=350
-        )
-
     st.success("Use the sidebar to navigate!")
 
 # -------------------- AUTOBIOGRAPHY --------------------
